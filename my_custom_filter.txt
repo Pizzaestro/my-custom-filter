@@ -1,8 +1,10 @@
 ! Title: My Custom Filters
 ! Description: Personal ad blocking filters
-! Version: 202609131825
-! Last modified: 13 Sep 2026 18:25 KST
+! Version: 202609131839
+! Last modified: 13 Sep 2026 18:39 KST
 
+namu.wiki##._9zlgANZs.wAWEtp2O.hQsAgViT
+namu.wiki##div.YT4dJ9AP
 m.dcinside.com##section.grid > .md-tit-box
 m.dcinside.com##.outside-search-box
 m.dcinside.com##.view-btm-con
