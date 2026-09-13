@@ -1,8 +1,18 @@
 ! Title: My Custom Filters
 ! Description: Personal ad blocking filters
-! Version: 202609131817
-! Last modified: 13 Sep 2026 18:17 KST
+! Version: 202609131825
+! Last modified: 13 Sep 2026 18:25 KST
 
+m.dcinside.com##section.grid > .md-tit-box
+m.dcinside.com##.outside-search-box
+m.dcinside.com##.view-btm-con
+m.dcinside.com##.comment.ad
+m.dcinside.com###reple_dori_txt_0
+m.dcinside.com##.adv-groupin
+m.dcinside.com##.adv-group.pwlink
+m.dcinside.com###auto_picture_area
+m.dcinside.com##.adv-inner
+m.dcinside.com##section.grid.clkhigh
 javtiful.com##.front-feature-placement.front-feature-placement-side
 javtiful.com##.front-watch-text-feature
 hitomi.la##.N6PV1eoAi6mPlvim
