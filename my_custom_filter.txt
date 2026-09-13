@@ -1,0 +1,45 @@
+[Adblock Plus 2.0]
+! Title: My Custom ABP Filter List
+! Homepage: https://github.com
+! Last modified: 13 Sep 2026
+! Description: Personal Adblock Plus rules for General, iPad, and iPhone environments.
+! Version: 1.0.0
+!
+
+! =========================================
+! 공통 사용자 규칙 (General Rules)
+! =========================================
+javtiful.com##.front-feature-placement.front-feature-placement-side
+javtiful.com##.front-watch-text-feature
+hitomi.la##.N6PV1eoAi6mPlvim
+m.cafe.naver.com##.CardWrap.home_section_promotion
+m.naver.com##.section_notice
+m.naver.com##.section_service
+hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__inGrid
+hiromi.fans##.AdBand-module__-GoSlG__top
+m.cafe.naver.com##.CardWrap.home_favorites
+m.cafe.naver.com##.CardWrap.home_location
+m.cafe.naver.com##.CardWrap.home_popular_articles
+m.cafe.naver.com##.CardWrap.home_recommend
+m.cafe.naver.com##.CardWrap.home_visit_cafe
+m.cafe.naver.com##div.HomeFeedItem
+m.naver.com###MM_homefeed_react_root
+m.place.naver.com##.irs3u.J3qoX
+www.xfree.com##.swiper-wrapper
+yasyadong02.tv##.row.top-ad-padding
+youtube.com##.sticker-layer.ytd-reel-video-renderer
+
+! =========================================
+! iPad 규칙 (iPad Rules)
+! =========================================
+www.youtube.com###items > .style-scope.ytd-watch-next-secondary-results-renderer
+www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
+www.youtube.com##ytd-guide-section-renderer:has-text(탐색)
+www.youtube.com##ytd-guide-section-renderer:has-text(YouTube 더보기)
+www.youtube.com##ytd-guide-section-renderer:has-text(신고 기록)
+www.youtube.com###footer.ytd-guide-renderer
+
+! =========================================
+! iPhone 규칙 (iPhone Rules)
+! =========================================
+m.youtube.com##.watch-content.full-bleed-wn-thumbs > .scwnr-content.single-column-watch-next-modern-panels > lazy-list
