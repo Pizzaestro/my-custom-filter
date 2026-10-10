@@ -1,7 +1,7 @@
 ! Title: Personal Filter
 ! Description: 개인용 웹페이지 요소 숨김 필터
 ! Version: 1.4
-! Homepage: https://github.com/USERNAME/REPOSITORY
+! Homepage: https://github.com/Pizzaestro/personal-filter
 ! Last modified: 2026-10-11 00:34 KST
 
 shopping.naver.com##._recommendKeyword_mobile_recommend_keyword_3rpMd
